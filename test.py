@@ -1,6 +1,2 @@
-for i in range(11):
+for i in range(3):
     print("ok")
-
-
-def calc():
-    return 1 + 1
