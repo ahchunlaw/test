@@ -10,3 +10,6 @@ def get_1():
 def get_5():
     return 5
 
+def get_2():
+    return 2
+
